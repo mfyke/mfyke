@@ -40,8 +40,7 @@ Feel free to reach out if you want to collaborate on a project, have questions, 
 
 ## 🏆 My GitHub Achievements
 
-- [Achievement 1](https://github.com/mfyke/achievement1)
-- [Achievement 2](https://github.com/mfyke/achievement2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mfyke)](https://github.com/ryo-ma/github-profile-trophy)
 
 Thanks for stopping by! 😄
 
