@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 
 You can find me on the web:
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/matt-fyke-578574107/))
+- [LinkedIn]([https://www.linkedin.com/in/matt-fyke-578574107/](https://www.linkedin.com/in/matt-fyke-578574107/))
 
 Feel free to reach out if you want to collaborate on a project, have questions, or just want to chat!
 
