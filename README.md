@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Matt Fyke
 
-🌍 I'm passionate about Software Engineering and Education based in Los Angeles.
+🌍 I'm passionate about Software Engineering and Education and I am based in Los Angeles.
 
 👨‍💻 I'm currently working on Developing Software Engineering Bootcamps at 2U.
 
