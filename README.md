@@ -36,7 +36,7 @@ Feel free to reach out if you want to collaborate on a project, have questions, 
 
 ## 📊 GitHub Stats
 
-[![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mfyke&theme=dark&background=000000)](https://github.com/mfyke)
+[![My GitHub stats](https://github-readme-streak-stats-mfyke.vercel.app/?user=mfyke&theme=dark&background=000000)](https://github.com/mfyke)
 
 ## 🏆 My GitHub Achievements
 
